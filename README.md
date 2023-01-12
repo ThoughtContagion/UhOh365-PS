@@ -1,5 +1,6 @@
 # UhOh365-PS
 PowerShell implementation of the functionality found in [Raikia's UhOh365 tool](https://github.com/Raikia/UhOh365)
+
 Funtionally compatible with PowerShell versions 5.1+
 
 Excerpt from UhOh365:
